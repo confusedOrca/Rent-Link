@@ -43,7 +43,7 @@ https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb
 
 https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4
 
-Uses can upload images, which are stored in the Express server using Multer
+Uses can upload images, which are stored in the Express server
 
 https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294
 
