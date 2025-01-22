@@ -42,9 +42,9 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
 1. **Voice-Based Interaction**
    - **Voice Search**: Users can search listings through voice commands.  
      [Demo: Voice Search](https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa) <!-- this is a video -->
-   - **Voice Posting**: A dynamic voice questionnaire fills out forms in both English and Bangla.  
-     [Demo: Voice Posting (English)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc)  <!-- this is a video -->
-     [Demo: Voice Posting (Bangla)](https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5) <!-- this is a video -->
+   - **Voice Posting**: A dynamic voice questionnaire fills out forms in both English and Bangla. 
+     - English: [Demo: Voice Posting (English)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc)  <!-- this is a video -->
+     - Bangla: [Demo: Voice Posting (Bangla)](https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5) <!-- this is a video -->
 
 2. **Geocoder Integration**  
    - Users can select their locations via an interactive map.  
