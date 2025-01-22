@@ -41,18 +41,36 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
 
 1. **Voice-Based Interaction**
    - **Voice Search**: Users can search listings through voice commands.  
-     [Demo: Voice Search](https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa)
-   - **Voice Posting**: A dynamic voice questionnaire fills out forms in both English and Bangla.  
-     [Demo: Voice Posting (English)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc)  
-     [Demo: Voice Posting (Bangla)](https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5)
+     <video controls width="600">
+       <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa" type="video/mp4">
+       Your browser does not support video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa">Watch here</a>.
+     </video>
+
+   - **Voice Posting**: A dynamic voice questionnaire fills out forms in both English and Bangla.
+     - English  
+       <video controls width="600">
+         <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc" type="video/mp4">
+         Your browser does not support video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc">Watch here</a>.
+       </video>
+     - Bangla  
+       <video controls width="600">
+         <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5" type="video/mp4">
+         Your browser does not support video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5">Watch here</a>.
+       </video>
 
 2. **Geocoder Integration**  
-   - Users can select their locations via an interactive map.  
-     [Demo: Geocoder](https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb16-354e08a39ff5)
+   Users can select their locations via an interactive map.  
+   <video controls width="600">
+     <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb16-354e08a39ff5" type="video/mp4">
+     Your browser does not support video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb16-354e08a39ff5">Watch here</a>.
+   </video>
 
 3. **Voice Messages**  
-   - Users can send voice messages with automatic transcription for easy communication.  
-     [Demo: Voice Messaging](https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4)
+   Users can send voice messages with automatic transcription for easy communication.  
+   <video controls width="600">
+     <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4" type="video/mp4">
+     Your browser does not support the video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4">Watch here</a>.
+   </video>
 
 ---
 
@@ -64,7 +82,10 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
 
 #### File Uploads
 - Users can upload images, which are stored securely on the Express server.  
-  [Demo: File Upload](https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294)
+<video controls width="600">
+  <source src="https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294" type="video/mp4">
+  Your browser does not support the video tag. <a href="https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294">Watch here</a>.
+</video>
 
 #### Analytics Dashboard
 - Users can view insights about their posts, including:
