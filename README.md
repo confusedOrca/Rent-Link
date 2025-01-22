@@ -26,7 +26,7 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
 #### Authentication & Session Management
 - **JWT Authentication**: Access tokens have a 24-hour lifetime. Refresh tokens ensure uninterrupted user experience.
 - **Session Persistence**: Users can resume activities seamlessly from their last state.  
-  [Demo: Session Persistence](https://github.com/confusedOrca/Rent-Link/assets/163755962/4a1c9434-6baa-44cd-9618-af97ba763956)
+  [![Demo: Session Persistence](https://img.youtube.com/vi/4a1c9434-6baa-44cd-9618-af97ba763956/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/4a1c9434-6baa-44cd-9618-af97ba763956)
 
 #### Profile and Protected Routes
 - All pages except the home and search pages are protected.
@@ -41,18 +41,18 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
 
 1. **Voice-Based Interaction**
    - **Voice Search**: Users can search listings through voice commands.  
-     [Demo: Voice Search](https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa)
+     [![Demo: Voice Search](https://img.youtube.com/vi/ad6b2d93-6964-4525-94ac-18b94e1faeaa/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ad6b2d93-6964-4525-94ac-18b94e1faeaa)
    - **Voice Posting**: A dynamic voice questionnaire fills out forms in both English and Bangla.  
-     [Demo: Voice Posting (English)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc)  
-     [Demo: Voice Posting (Bangla)](https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5)
+     [![Demo: Voice Posting (English)](https://img.youtube.com/vi/ba31e522-1b1a-418d-8c0a-a6165110effc/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/ba31e522-1b1a-418d-8c0a-a6165110effc)  
+     [![Demo: Voice Posting (Bangla)](https://img.youtube.com/vi/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/56c0d9e9-1e37-457c-94d3-4d4ab4d295f5)
 
 2. **Geocoder Integration**  
    - Users can select their locations via an interactive map.  
-     [Demo: Geocoder](https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb16-354e08a39ff5)
+     [![Demo: Geocoder](https://img.youtube.com/vi/812a2c0d-7d69-4cd9-bb16-354e08a39ff5/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/812a2c0d-7d69-4cd9-bb16-354e08a39ff5)
 
 3. **Voice Messages**  
    - Users can send voice messages with automatic transcription for easy communication.  
-     [Demo: Voice Messaging](https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4)
+     [![Demo: Voice Messaging](https://img.youtube.com/vi/0fd28cf4-76c7-4b8f-8157-2019d08525c4/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/0fd28cf4-76c7-4b8f-8157-2019d08525c4)
 
 ---
 
@@ -63,8 +63,8 @@ See the contributions of collaborators here: [Bitbucket Repository](https://bitb
   ![Enquiry Notification](https://github.com/confusedOrca/Rent-Link/assets/163755962/bcfbe0bf-7e06-47b9-8ee8-93eabd470501)
 
 #### File Uploads
-- Users can upload images, which are stored securely on the Express server.  
-  [Demo: File Upload](https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294)
+- Users can upload images stored securely on the Express server.  
+  [![Demo: File Upload](https://img.youtube.com/vi/6d50e667-c3b1-4fe6-973b-a1abb6b6a294/0.jpg)](https://github.com/confusedOrca/Rent-Link/assets/163755962/6d50e667-c3b1-4fe6-973b-a1abb6b6a294)
 
 #### Analytics Dashboard
 - Users can view insights about their posts, including:
